@@ -1,0 +1,1 @@
+# windows-setup-scoop-bucket
